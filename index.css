@@ -20,7 +20,7 @@ button{
     padding: 10px 20px;
     font-size: medium;
     font-weight: bold;
-    border: 0px;
+    border: 1px solid #5f9341 ;
     border-radius: 2px;
 }
 
@@ -37,4 +37,12 @@ li a{
     color:#5f9341;
     font-weight:200 
 }
-
+#delete-btn{
+    background-color:  aliceblue;
+    color:#5f9341;
+    padding: 10px 20px;
+    font-size: medium;
+    font-weight: bold;
+    border: 1px solid #5f9341 ;
+    border-radius: 2px;
+}
